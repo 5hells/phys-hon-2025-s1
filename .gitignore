@@ -1,0 +1,7 @@
+.lsp/
+.clj-kondo/
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
